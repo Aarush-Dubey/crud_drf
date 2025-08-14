@@ -48,7 +48,7 @@ Each product has the following fields:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/aarush-dubey/crud_drf.git
 cd crud_drf
 ```
 
